@@ -1,7 +1,7 @@
 # Traffic-Sign-Classification
 
 # Objective
-Design, train and test a neural network model architecture for German Traffic Signs classification
+Design, train and test a neural network model for German Traffic Signs classification
 
 # Data set Summary
 Size of Training Set:   34799 samples
