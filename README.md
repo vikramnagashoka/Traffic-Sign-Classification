@@ -10,7 +10,8 @@ Size of Test Set:       12630 samples
 Shape of a sample: (32,32,3)
 Number of unique classes: 43
 
-#Pre-processing the data
+# Pre-processing the data
+
 Step 1: Added additional training samples by adding noise to the existing images.
 
 Step 2: Converted all the training samples to grayscale because the result is not dependent on the color channels.
